@@ -20,6 +20,14 @@ The core aim is to provide airports with the means to collect and analyse crowd-
 
 The key innovation of the work is the combining of various novel areas of computer vision and distance homography into an integrated computer-vision based framework, built on a foundation of crowd-pose estimation, which feeds into a series of downstream modelling tasks.
 
+The downstream modelling tasks are specialist applied problems in their own right, and include:
+
+1. Crowd counting and monitoring using person object detection and pose estimation features.
+2. Inter-personal distance estimation using pose-features and automated-calibration homography techniques, which can adapt to any input video scene, without the need for manual measurement and calculation.
+3. Social clustering and group analysis using unsupervised learning and top-down transformation inter-personal distances.
+4. Mask detection for all persons in a scene, using a novel process of extracting head regions from all persons using pose features, followed by application of a fine-tuned image classification model.
+5. Pose behaviour detection, which predicts the current status of all persons in a scene based on their analysed pose features.
+
 The outputs of the system are presented to the end-user using a custom dashboard application.
 
 All code for the project has been developed in Python and associated open-source packages, including Numpy, OpenCV, MXNet, TensorFlow, GluonCV, Flask and Dash.
