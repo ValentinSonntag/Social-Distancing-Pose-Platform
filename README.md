@@ -1,5 +1,4 @@
 # Airport Integrated Crowd Monitoring and Social Distancing Analysis Platform
-- Group Design Project (Group 5) 
 - Cranfield University, Applied Artificial Intelligence MSc.
 
 ## Authors
