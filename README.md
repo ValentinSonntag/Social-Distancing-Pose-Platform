@@ -1,10 +1,9 @@
-# Airport Integrated Crowd Monitoring and Social Distancing Analysis Platform
-- Cranfield University, Applied Artificial Intelligence MSc.
+# Reducing Viral Transmission through AI based Crowd Monitoring and Social Distancing Analysis
 
 ## Authors
 
-- Ben Fraser, https://github.com/BenjaminFraser
-- Bian Tongfei, https://github.com/biantongfei
+- Ben Fraser, https://github.com/BenjaminFraser, B.Fraser@cranfield.ac.uk
+- Bian Tongfei, https://github.com/biantongfei, 
 - Brendan Copp, https://github.com/bdvcp
 - Gurpreet Singh
 - Orhan Keyvan, https://github.com/CaptainSaturn
@@ -15,9 +14,9 @@
 
 This project addresses issues presented during the recent pandemic, in particular, the need to ensure safety and sufficient public social distancing within crowded regions, including airports. In order to achieve this, an integrated airport crowd-monitoring and analytics system is developed, which works on the principle of applying a range of applied AI techniques to existing video surveillance camera feeds. 
 
-The core aim is to provide airports with the means to collect and analyse crowd-based data, in order to enhance existing processes and improve safety throughout all managed locations. 
+The core aim is to provide locations and organisations with the means to collect and analyse crowd-based data, in order to enhance existing processes and improve safety throughout all managed locations. 
 
-The key innovation of the work is the combining of various novel areas of computer vision and distance homography into an integrated computer-vision based framework, built on a foundation of crowd-pose estimation, which feeds into a series of downstream modelling tasks.
+The key innovation of the work is the combining of various novel areas of computer vision and distance homography into an integrated computer-vision based framework, built on a foundation of crowd-pose estimation, which feeds into a series of downstream modelling tasks. This repository contains all of the developed components, including the dashboard and visualisation tools.
 
 The downstream modelling tasks are specialist applied problems in their own right, and include:
 
