@@ -10,6 +10,9 @@
 - Valentin Sonntag, https://github.com/ValentinSonntag
 
 
+- Centre for Autonomous and Cyber-Physical Systems
+- School of Aerospace, Transport and Manufacturing, Cranfield University, United Kingdom.
+
 ## Introduction and Overview
 
 This project addresses issues presented during the recent pandemic, in particular, the need to ensure safety and sufficient public social distancing within crowded regions, including airports. In order to achieve this, an integrated airport crowd-monitoring and analytics system is developed, which works on the principle of applying a range of applied AI techniques to existing video surveillance camera feeds. 
