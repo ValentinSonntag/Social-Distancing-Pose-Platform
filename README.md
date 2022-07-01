@@ -11,8 +11,9 @@
 - Dr Yang Xing, Yang.X@cranfield.ac.uk
 
 
-- Centre for Autonomous and Cyber-Physical Systems
-- School of Aerospace, Transport and Manufacturing, Cranfield University, United Kingdom.
+
+*Centre for Autonomous and Cyber-Physical Systems*
+*School of Aerospace, Transport and Manufacturing, Cranfield University, United Kingdom*
 
 ## Introduction and Overview
 
