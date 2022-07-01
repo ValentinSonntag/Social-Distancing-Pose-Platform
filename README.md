@@ -5,9 +5,10 @@
 - Ben Fraser, https://github.com/BenjaminFraser, B.Fraser@cranfield.ac.uk
 - Bian Tongfei, https://github.com/biantongfei, 
 - Brendan Copp, https://github.com/bdvcp
-- Gurpreet Singh
+- Gurpreet Singh, Gurpreet.Singh.388@cranfield.ac.uk
 - Orhan Keyvan, https://github.com/CaptainSaturn
 - Valentin Sonntag, https://github.com/ValentinSonntag
+- Dr Yang Xing, Yang.X@cranfield.ac.uk
 
 
 - Centre for Autonomous and Cyber-Physical Systems
