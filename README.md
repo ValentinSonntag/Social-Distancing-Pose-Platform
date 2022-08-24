@@ -8,7 +8,6 @@
 - Gurpreet Singh, Gurpreet.Singh.388@cranfield.ac.uk
 - Orhan Keyvan, https://github.com/CaptainSaturn
 - Valentin Sonntag, https://github.com/ValentinSonntag
-- Dr Yang Xing, Yang.X@cranfield.ac.uk
 
 
 
