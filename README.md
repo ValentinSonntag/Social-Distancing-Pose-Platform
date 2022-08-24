@@ -3,7 +3,7 @@
 ## Authors
 
 - Ben Fraser, https://github.com/BenjaminFraser, B.Fraser@cranfield.ac.uk
-- Bian Tongfei, https://github.com/biantongfei, 
+- Tongfei Bian, https://github.com/biantongfei, 
 - Brendan Copp, https://github.com/bdvcp
 - Gurpreet Singh, Gurpreet.Singh.388@cranfield.ac.uk
 - Orhan Keyvan, https://github.com/CaptainSaturn
